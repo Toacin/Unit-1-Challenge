@@ -2,7 +2,7 @@
 
 ## Description
 
-## **This repository updates existing code on the "Horiseon" webpage to increase readability and accessibility.**
+### **This repository updates existing code on the "Horiseon" webpage to increase readability and accessibility.**
 
 ### Replacing 'div' Elements
 Existing 'div' elements have been switched with semantic HTML elements for better readability.
