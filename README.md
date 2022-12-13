@@ -17,10 +17,6 @@ All image elements now have an "alt" attribute or an "aria-label" to further pro
 
 N/A
 
-## Credits
-
-Special thanks to the UofA Coding Bootcamp teaching staff for guidance and assistance.
-
 ## License
 
 Open Source
